@@ -1,1 +1,2 @@
 # CS2004_Lab10
+Simulates the flight path of an unguided projectile with no propulsion that is fired at a given velocity and angle. It is assumed to be launched from a flat surface. Air density and drag is modelled. Wind effects and the curvature and spin of the earth is NOT modelled. Currently "hard wired" for modelling K12
